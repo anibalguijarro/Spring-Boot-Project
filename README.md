@@ -4,7 +4,7 @@ This project is a REST API built with Java and Spring Boot. It uses Spring Data 
 
 ## Inspiration
 
-This project is based on the tutorial from Amigoscode:  
+This project is based on the tutorial from "Amigoscode":  
 [Building a REST API with Java and Spring Boot](https://www.youtube.com/watch?v=Cw0J6jYJtzw)
 
 
